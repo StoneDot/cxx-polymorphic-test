@@ -27,3 +27,11 @@
 *.exe
 *.out
 *.app
+
+# For cmake project
+/CMakeFiles
+/CMakeCache.txt
+/Makefile
+/compile_commands.json
+/cmake_install.cmake
+/test
